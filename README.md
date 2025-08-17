@@ -33,7 +33,7 @@ This folder contains the `visionTransformer.ipynb` notebook, which demonstrates 
 
 You can install dependencies using:
 ```bash
-pip install torch numpy matplotlib
+pip install torch torchvision numpy matplotlib
 ```
 
 ## Results
